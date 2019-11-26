@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574751774 source:/home/hasan/Documents/AlanHesaplama/main.cpp
+	<iostream>
+	"Dortgen.h"
+	"Kare.h"
+	"Yamuk.h"
+
+1574751259 /home/hasan/Documents/AlanHesaplama/include/Dortgen.h
+
+1574751259 /home/hasan/Documents/AlanHesaplama/include/Kare.h
+	<Dortgen.h>
+
+1574751259 /home/hasan/Documents/AlanHesaplama/include/Yamuk.h
+	<Dortgen.h>
+
+1574751259 source:/home/hasan/Documents/AlanHesaplama/src/Dortgen.cpp
+	"Dortgen.h"
+
+1574751258 source:/home/hasan/Documents/AlanHesaplama/src/Yamuk.cpp
+	"Yamuk.h"
+
+1574751918 source:/home/hasan/Documents/AlanHesaplama/src/Kare.cpp
+	"Kare.h"
+
