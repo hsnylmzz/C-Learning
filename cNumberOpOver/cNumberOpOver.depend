@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1575998862 source:/home/hasan/Documents/cNumberOpOver/main.cpp
+	<iostream>
+	"cNumber.h"
+	"cArray.h"
+
+1575999023 /home/hasan/Documents/cNumberOpOver/include/cNumber.h
+	<iostream>
+
+1575998862 /home/hasan/Documents/cNumberOpOver/include/cArray.h
+	"cNumber.h"
+
+1575998862 source:/home/hasan/Documents/cNumberOpOver/src/cArray.cpp
+	"cArray.h"
+
