@@ -127,11 +127,13 @@ stack::stack(long long _size){
 }
 
 int stack::writeItem(int itemIn){//5 points
-  if(writeIndex<size){
+  /*
+    if(writeIndex<size){
     items[writeIndex] = itemIn;
     writeIndex++;
   }
   return writeIndex;
+  */
 }
 
 void write_buffer_items(bufferType &buffer, int item){
